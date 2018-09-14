@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/struts3" />
     <file type="web" url="file://$PROJECT_DIR$/struts4" />
+    <file type="web" url="file://$PROJECT_DIR$/struts5" />
     <file type="web" url="file://$PROJECT_DIR$/test" />
   </component>
   <component name="MavenProjectsManager">
@@ -10,6 +11,7 @@
       <list>
         <option value="$PROJECT_DIR$/test/pom.xml" />
         <option value="$PROJECT_DIR$/struts4/pom.xml" />
+        <option value="$PROJECT_DIR$/struts5/pom.xml" />
       </list>
     </option>
   </component>
