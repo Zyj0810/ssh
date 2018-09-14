@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="struts4" />
         <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="struts3" target="1.7" />
+      <module name="struts4" target="1.5" />
       <module name="test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
